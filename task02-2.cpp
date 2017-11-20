@@ -23,7 +23,7 @@ int sumN(int x) {
 }
 
 void find(int sumN) {
-	std::vector<int> v{4, 5, 3};
+	std::vector<int> v{ 1, 2, 5 };
 	std::vector<int> vF;
 	std::vector<int>::iterator iter_v;
 	std::vector<int>::iterator iter_vF;
